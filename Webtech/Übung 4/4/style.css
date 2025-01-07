@@ -1,0 +1,13 @@
+th{
+    color:red;
+}
+tr:nth-child(even){
+    background-color: lightblue;
+}
+section h2{
+    color:Orange;
+}
+
+p ~ p{
+    background-color: yellow;
+}
