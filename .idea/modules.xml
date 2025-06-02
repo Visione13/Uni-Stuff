@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AuD/AuD.iml" filepath="$PROJECT_DIR$/AuD/AuD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AuD/AuD Uebung01/AuD Uebung01.iml" filepath="$PROJECT_DIR$/AuD/AuD Uebung01/AuD Uebung01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PK1/PK1.iml" filepath="$PROJECT_DIR$/PK1/PK1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PK1/Uebung/Uebung01.iml" filepath="$PROJECT_DIR$/PK1/Uebung/Uebung01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Uni-Stuff.iml" filepath="$PROJECT_DIR$/.idea/Uni-Stuff.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PK1/Uebung/array/array.iml" filepath="$PROJECT_DIR$/PK1/Uebung/array/array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PK1/Uebung/collection/collection.iml" filepath="$PROJECT_DIR$/PK1/Uebung/collection/collection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PK1/generic collection/generic collection.iml" filepath="$PROJECT_DIR$/PK1/generic collection/generic collection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PK1/Uebung/generic_collection/generic_collection.iml" filepath="$PROJECT_DIR$/PK1/Uebung/generic_collection/generic_collection.iml" />
+    </modules>
+  </component>
+</project>
