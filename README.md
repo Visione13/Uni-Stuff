@@ -1,5 +1,5 @@
 # Uni Stuff
-<h3 align="left">Alle Sprachen und Technologien:</h3>
+<h3 align="left">Tech-Stack:</h3>
 
 ###
 
