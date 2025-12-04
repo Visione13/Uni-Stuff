@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-    <component name="ProjectModuleManager">
-        <modules>
-            <module fileurl="file://$PROJECT_DIR$/.idea/Uni-Stuff.iml" filepath="$PROJECT_DIR$/.idea/Uni-Stuff.iml" />
-            <module fileurl="file://$PROJECT_DIR$/EidP/EidP.iml" filepath="$PROJECT_DIR$/EidP/EidP.iml" />
-            <module fileurl="file://$PROJECT_DIR$/EidP/Uebung 1/Uebung 1.iml" filepath="$PROJECT_DIR$/EidP/Uebung 1/Uebung 1.iml" />
-            <module fileurl="file://$PROJECT_DIR$/EidP/Uebung 1 Zusatz/Uebung 1 Zusatz.iml" filepath="$PROJECT_DIR$/EidP/Uebung 1 Zusatz/Uebung 1 Zusatz.iml" />
-            <module fileurl="file://$PROJECT_DIR$/EidP/Uebung 2/Uebung 2.iml" filepath="$PROJECT_DIR$/EidP/Uebung 2/Uebung 2.iml" />
-            <module fileurl="file://$PROJECT_DIR$/EidP/Uebung 2 Zusatz/Uebung 2 Zusatz.iml" filepath="$PROJECT_DIR$/EidP/Uebung 2 Zusatz/Uebung 2 Zusatz.iml" />
-            <module fileurl="file://$PROJECT_DIR$/EidP/Uebung 4/Uebung 4.iml" filepath="$PROJECT_DIR$/EidP/Uebung 4/Uebung 4.iml" />
-            <module fileurl="file://$PROJECT_DIR$/EidP/Uebung 4 Zusatz/Uebung 4 Zusatz.iml" filepath="$PROJECT_DIR$/EidP/Uebung 4 Zusatz/Uebung 4 Zusatz.iml" />
-        </modules>
-    </component>
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/EidP/EidP.iml" filepath="$PROJECT_DIR$/EidP/EidP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EidP/Uebung 1/Uebung 1.iml" filepath="$PROJECT_DIR$/EidP/Uebung 1/Uebung 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EidP/Uebung 1 Zusatz/Uebung 1 Zusatz.iml" filepath="$PROJECT_DIR$/EidP/Uebung 1 Zusatz/Uebung 1 Zusatz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EidP/Uebung 2/Uebung 2.iml" filepath="$PROJECT_DIR$/EidP/Uebung 2/Uebung 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EidP/Uebung 2 Zusatz/Uebung 2 Zusatz.iml" filepath="$PROJECT_DIR$/EidP/Uebung 2 Zusatz/Uebung 2 Zusatz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EidP/Uebung 3/Uebung 3.iml" filepath="$PROJECT_DIR$/EidP/Uebung 3/Uebung 3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EidP/Uebung 3 Zusatz/Uebung 3 Zusatz.iml" filepath="$PROJECT_DIR$/EidP/Uebung 3 Zusatz/Uebung 3 Zusatz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Uni-Stuff.iml" filepath="$PROJECT_DIR$/.idea/Uni-Stuff.iml" />
+    </modules>
+  </component>
 </project>
